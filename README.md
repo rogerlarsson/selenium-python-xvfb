@@ -1,3 +1,6 @@
+forked from pimuzzo/selenium-python-xvfb:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 #### Useful Docker container image
 
 Forked from: [khozzy/selenium-python-chrome](https://goo.gl/Fu723f)
